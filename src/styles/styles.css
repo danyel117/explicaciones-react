@@ -1,0 +1,28 @@
+.fondo-rojo {
+  background-color: red;
+}
+
+.fondo-verde {
+  background-color: aquamarine;
+}
+
+.button {
+  cursor: pointer;
+  padding: 3px;
+  border: 1px solid gray;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  padding: 30px;
+}
+
+.fondo-oscuro {
+  background-color: rgb(29, 29, 29);
+}
+
+.fondo-claro {
+  background-color: rgb(238, 237, 237);
+}
